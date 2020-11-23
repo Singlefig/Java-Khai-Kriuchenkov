@@ -1,0 +1,10 @@
+package acrostic;
+
+import org.me.mylib.LibClass;
+
+public class Main {
+	public static void UseExtLib(String[] args) {
+		String result = LibClass.acrostic(args);
+		System.out.println("Result = " + result);
+	}
+}

@@ -1,0 +1,14 @@
+package org.me.mylib;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class LibClassTest {
+
+	@Test
+	void testAcrostic() {
+		fail("Not yet implemented");
+	}
+
+}
